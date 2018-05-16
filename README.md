@@ -1,5 +1,5 @@
 # Train-computer-to-imitate-world-famous-paintings
-通过python的深度学习算法包去训练计算机模仿世界名画的风格，然后应用到另一幅画中
+通过python的深度学习算法包去训练计算机模仿世界名画的风格，然后应用到另一幅画中。具体应用到的算法看上传的pdf论文。
 步骤一：
 #命令行安装keras、h5py、tensorflow
 pip3 install keras
